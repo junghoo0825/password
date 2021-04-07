@@ -21,6 +21,7 @@ basic.forever(function () {
                 if (리스트[3] == 0) {
                     if (리스트[4] == 0) {
                         basic.showIcon(IconNames.Yes)
+                        basic.pause(5000)
                         _0자리수 = 1
                     }
                 }
